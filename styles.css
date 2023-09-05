@@ -1,3 +1,6 @@
 table,th {
     border: dashed rgb(56, 45, 216);
 }
+.profile {
+    border-radius:  50%;
+}
